@@ -1,0 +1,19 @@
+[VERSN2]
+
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos AMBULANCE MaxInstances1 2
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos AMBULANCE MaxInstances2 2
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos AMBULANCE MaxInstances3 2
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos AMBULANCE MaxInstances4 2
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos AMBULANCE MaxInstances5 1
+
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos FIRETRUCK MaxInstances1 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos FIRETRUCK MaxInstances2 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos FIRETRUCK MaxInstances3 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos FIRETRUCK MaxInstances4 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos FIRETRUCK MaxInstances5 1
+
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos BUS MaxInstances1 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos BUS MaxInstances2 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos BUS MaxInstances3 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos BUS MaxInstances4 5
+update_collection GLOBAL\GLOBALB.LZC CarTypeInfos BUS MaxInstances5 1

@@ -1,0 +1,11 @@
+[VERSN2]
+
+combobox "Install" "Uninstall"  "CUT TRAFFIC RESTORATION MOD"
+
+"Install"
+append "install.end"
+
+"Uninstall"
+append "uninstall.end"
+
+end
